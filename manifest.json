@@ -1,0 +1,10 @@
+{
+  "name": "帝王一生",
+  "short_name": "帝王一生",
+  "description": "凤仪天下 · 帝王一生",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14100e",
+  "theme_color": "#c9a227",
+  "orientation": "portrait"
+}
